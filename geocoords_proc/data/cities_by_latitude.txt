@@ -1,0 +1,786 @@
+82.28.N	62.30.W	Alert, Nunavut	Canada
+81.36.N	16.40.W	Nord	Greenland
+79.59.N	85.57.W	Eureka, Nunavut	Canada
+78.55.N	11.56.E	Ny-Ålesund, Svalbard	Norway
+78.13.N	15.34.E	Longyearbyen, Svalbard	Norway
+77.28.N	69.14.W	Qaanaaq, Qaasuitsup	Greenland
+76.25.N	82.53.W	Grise Fiord, Nunavut	Canada
+71.18.N	156.45.W	Barrow, Alaska	United States
+70.39.N	23.41.E	Hammerfest	Norway
+70.12.N	148.30.W	Deadhorse, Alaska	United States
+70.04.N	27.52.E	Nuorgam, Lapland	Finland
+70.04.N	29.44.E	Vadsø	Norway
+69.54.N	27.01.E	Utsjoki	Finland
+69.40.N	18.56.E	Tromsø	Norway
+69.26.N	133.01.W	Tuktoyaktuk, Northwest Territories	Canada
+69.21.N	88.12.E	Norilsk	Russia
+68.58.N	33.04.E	Murmansk	Russia
+68.25.N	17.34.E	Narvik	Norway
+67.51.N	20.13.E	Kiruna	Sweden
+67.33.N	133.23.E	Verkhoyansk	Russia
+67.18.N	14.33.E	Bodø	Norway
+67.07.N	20.45.E	Gällivare-Malmberget-Koskullskulle	Sweden
+66.42.N	27.26.E	Kemijärvi	Finland
+66.30.N	25.44.E	Rovaniemi	Finland
+66.04.N	23.07.W	Ísafjörður	Iceland
+65.58.N	29.11.E	Kuusamo	Finland
+65.51.N	24.09.E	Tornio	Finland
+65.50.N	21.43.E	Boden	Sweden
+65.50.N	24.08.E	Haparanda	Sweden
+65.44.N	24.34.E	Kemi	Finland
+65.41.N	18.06.W	Akureyri	Iceland
+65.34.N	22.09.E	Luleå	Sweden
+65.32.N	21.51.E	Piteå	Sweden
+65.21.N	27.00.E	Pudasjärvi	Finland
+65.01.N	25.28.E	Oulu	Finland
+64.76.N	20.99.E	Skellefteå	Sweden
+64.50.N	147.43.W	Fairbanks, Alaska	United States
+64.32.N	40.32.E	Arkhangelsk	Russia
+64.10.N	51.43.W	Nuuk (Godthåb), Greenland	Greenland
+64.08.N	21.56.W	Reykjavík	Iceland
+63.50.N	20.15.E	Umeå	Sweden
+63.47.N	10.93.E	Stjordal	Norway
+63.45.N	68.31.W	Iqaluit, Nunavut	Canada
+63.30.N	18.72.E	Örnsköldsvik	Sweden
+63.25.N	10.23.E	Trondheim	Norway
+63.18.N	14.65.E	Östersund	Sweden
+63.10.N	22.00.E	Vaasa	Finland
+62.53.N	27.40.E	Kuopio	Finland
+62.40.N	17.33.E	Sundsvall	Sweden
+62.27.N	114.24.W	Yellowknife, Northwest Territories	Canada
+62.2.N	129.44.E	Yakutsk	Russia
+62.14.N	25.44.E	Jyväskylä	Finland
+62.0.N	6.46.W	Tórshavn, Faroe Islands	Denmark
+61.30.N	23.45.E	Tampere	Finland
+61.13.N	149.54.W	Anchorage, Alaska	United States
+61.07.N	10.25.E	Lillehammer	Norway
+60.59.N	25.39.E	Lahti	Finland
+60.41.N	135.08.W	Whitehorse, Yukon	Canada
+60.27.N	22.16.E	Turku	Finland
+60.22.N	5.24.E	Bergen	Norway
+60.17.N	25.02.E	Vantaa	Finland
+60.12.N	24.39.E	Espoo	Finland
+60.12.N	24.56.E	Helsinki	Finland
+59.56.N	30.20.E	Saint Petersburg	Russia
+59.56.N	10.45.E	Oslo	Norway
+59.51.N	17.38.E	Uppsala	Sweden
+59.26.N	24.45.E	Tallinn	Estonia
+59.21.N	18.04.E	Stockholm	Sweden
+59.17.N	11.06.E	Sarpsborg	Norway
+58.36.N	16.12.E	Norrköping	Sweden
+58.23.N	26.43.E	Tartu	Estonia
+58.23.N	134.11.W	Juneau, Alaska	United States
+58.10.N	08.02.E	Kristiansand	Norway
+58.0.N	56.19.E	Perm	Russia
+57.42.N	11.55.E	Gothenburg	Sweden
+57.37.N	39.51.E	Yaroslavl	Russia
+57.28.N	04.13.W	Inverness, Scotland	United Kingdom
+57.10.N	02.7.W	Aberdeen, Scotland	United Kingdom
+56.58.N	24.8.E	Riga	Latvia
+56.50.N	60.35.E	Yekaterinburg	Russia
+56.50.N	53.11.E	Izhevsk	Russia
+56.44.N	111.23.W	Fort McMurray, Alberta	Canada
+56.20.N	44.00.E	Nizhny Novgorod	Russia
+56.10.N	101.37.E	Bratsk	Russia
+56.09.N	10.12.E	Aarhus	Denmark
+56.01.N	93.04.E	Krasnoyarsk	Russia
+55.57.N	03.12.W	Edinburgh, Scotland	United Kingdom
+55.52.N	04.15.W	Glasgow, Scotland	United Kingdom
+55.47.N	49.10.E	Kazan	Russia
+55.45.N	37.37.E	Moscow	Russia
+55.43.N	12.34.E	Copenhagen	Denmark
+55.35.N	13.02.E	Malmö	Sweden
+55.32.N	08.34.E	Esbjerg	Denmark
+55.23.N	10.23.E	Odense	Denmark
+55.10.N	118.48.W	Grande Prairie, Alberta	Canada
+55.09.N	61.22.E	Chelyabinsk	Russia
+55.01.N	82.56.E	Novosibirsk	Russia
+54.59.N	73.22.E	Omsk	Russia
+54.58.N	01.36.W	Newcastle upon Tyne, England	United Kingdom
+54.45.N	55.58.E	Ufa	Russia
+54.41.N	25.17.E	Vilnius	Lithuania
+54.36.N	5.56.W	Belfast, Northern Ireland	United Kingdom
+54.30.N	18.32.E	Gdynia	Poland
+54.21.N	18.40.E	Gda.sk	Poland
+54.20.N	10.08.E	Kiel	Germany
+53.79.N	1.75.W	Bradford, England	United Kingdom
+53.55.N	27.33.E	Minsk	Belarus
+53.48.N	1.33.W	Leeds, England	United Kingdom
+53.34.N	10.02.E	Hamburg	Germany
+53.34.N	113.31.W	Edmonton, Alberta	Canada
+53.29.N	2.15.W	Manchester, England	United Kingdom
+53.29.N	49.31.E	Tolyatti	Russia
+53.25.N	2.59.W	Liverpool, England	United Kingdom
+53.23.N	1.28.W	Sheffield, England	United Kingdom
+53.21.N	6.16.W	Dublin	Ireland
+53.14.N	50.10.E	Samara	Russia
+53.13.N	6.34.E	Groningen	Netherlands
+53.04.N	8.49.E	Bremen	Germany
+53.01.N	158.39.E	Petropavlovsk-Kamchatsky	Russia
+52.57.N	01.08.W	Nottingham, England	United Kingdom
+52.38.N	1.14.W	Leicester, England	United Kingdom
+52.37.N	01.29.E	Norwich, England	United Kingdom
+52.35.N	0.15.W	Peterborough, England	United Kingdom
+52.31.N	13.25.E	Berlin	Germany
+52.29.N	1.54.W	Birmingham, England	United Kingdom
+52.24.N	1.30.W	Coventry, England	United Kingdom
+52.22.N	4.54.E	Amsterdam	Netherlands
+52.22.N	4.38.E	Haarlem	Netherlands
+52.17.N	104.16.E	Irkutsk	Russia
+52.14.N	21.01.E	Warsaw	Poland
+52.13.N	6.53.E	Enschede	Netherlands
+52.13.N	106.65.W	Saskatoon, Saskatchewan	Canada
+52.12.N	0.07.E	Cambridge, England	United Kingdom
+52.09.N	4.30.E	Leiden	Netherlands
+52.05.N	5.6.E	Utrecht	Netherlands
+52.04.N	4.18.E	The Hague	Netherlands
+51.87.N	2.24.W	Gloucester, England	United Kingdom
+51.56.N	4.28.E	Rotterdam	Netherlands
+51.45.N	1.15.W	Oxford, England	United Kingdom
+51.40.N	39.12.E	Voronezh	Russia
+51.38.N	2.36.W	Bath, England	United Kingdom
+51.37.N	3.57.W	Swansea, Wales	United Kingdom
+51.32.N	46.01.E	Saratov	Russia
+51.30.N	0.08.W	London, England	United Kingdom
+51.29.N	3.11.W	Cardiff, Wales	United Kingdom
+51.27.N	2.36.W	Bristol, England	United Kingdom
+51.13.N	04.24.E	Antwerp	Belgium
+51.10.N	71.26.E	Astana	Kazakhstan
+51.03.N	114.03.W	Calgary, Alberta	Canada
+51.03.N	3.44.E	Ghent	Belgium
+51.00.N	1.04.W	Southampton, England	United Kingdom
+50.57.N	6.58.E	Cologne	Germany
+50.51.N	4.21.E	Brussels	Belgium
+50.51.N	5.41.E	Maastricht	Netherlands
+50.49.N	1.05.W	Portsmouth, England	United Kingdom
+50.49.N	0.09.W	Brighton and Hove, England	United Kingdom
+50.27.N	104.61.W	Regina, Saskatchewan	Canada
+50.43.N	3.32.W	Exeter, England	United Kingdom
+50.41.N	120.20.W	Kamloops, British Columbia	Canada
+50.27.N	30.30.E	Kiev	Ukraine
+50.22.N	4.08.W	Plymouth, England	United Kingdom
+50.07.N	8.41.E	Frankfurt am Main, Hesse	Germany
+50.05.N	14.26.E	Prague	Czech Republic
+50.03.N	19.56.E	Kraków	Poland
+50.00.N	36.15.E	Kharkov	Ukraine
+49.54.N	97.08.W	Winnipeg, Manitoba	Canada
+49.51.N	24.01.E	Lviv, Lviv Oblast	Ukraine
+49.37.N	6.08.E	Luxembourg	Luxembourg
+49.32.N	119.18.W	Kelowna, British Columbia	Canada
+49.16.N	123.07.W	Vancouver, British Columbia	Canada
+48.52.N	2.20.E	Paris	France
+48.42.N	44.31.E	Volgograd	Russia
+48.58.N	7.74.E	Strasbourg	France
+48.25.N	123.22.W	Victoria, British Columbia	Canada
+48.22.N	89.19.W	Thunder Bay, Ontario	Canada
+48.13.N	16.22.E	Vienna	Austria
+48.09.N	17.07.E	Bratislava	Slovakia
+48.08.N	11.34.E	Munich, Bavaria	Germany
+47.55.N	106.55.E	Ulan Bator	Mongolia
+47.36.N	122.19.W	Seattle, Washington	United States
+47.34.N	7.36.E	Basel	Switzerland
+47.33.N	52.40.W	St. John's, Newfoundland and Labrador	Canada
+47.28.N	19.03.E	Budapest	Hungary
+47.22.N	8.33.E	Zürich	Switzerland
+47.14.N	39.42.E	Rostov-on-Don	Russia
+47.08.N	9.31.E	Vaduz	Liechtenstein
+47.00.N	28.55.E	Chi.in.u	Moldova
+46.57.N	7.27.E	Bern	Switzerland
+46.51.N	29.38.E	Tiraspol, Transnistria	Moldova
+46.49.N	71.13.W	Quebec City, Quebec	Canada
+46.48.N	100.46.W	Bismarck, North Dakota	United States
+46.46.N	23.35.E	Cluj-Napoca	Romania
+46.37.N	80.48.W	Sudbury, Ontario	Canada
+46.35.N	112.1.W	Helena, Montana	United States
+46.32.N	84.20.W	Sault Ste. Marie, Ontario	Canada
+46.31.N	6.38.E	Lausanne	Switzerland
+46.28.N	30.44.E	Odessa	Ukraine
+46.22.N	79.25.W	North Bay, Ontario	Canada
+46.14.N	63.8.W	Charlottetown, Prince Edward Island	Canada
+46.12.N	6.09.E	Geneva	Switzerland
+46.08.N	64.46.W	Moncton, New Brunswick	Canada
+46.03.N	14.30.E	Ljubljana	Slovenia
+45.57.N	66.40.W	Fredericton, New Brunswick	Canada
+45.49.N	15.59.E	Zagreb	Croatia
+45.46.N	4.50.E	Lyon	France
+45.45.N	126.41.E	Harbin, Heilongjiang	People's Republic of China
+45.31.N	122.41.W	Portland, Oregon	United States
+45.31.N	73.33.W	Montreal, Quebec	Canada
+45.28.N	9.10.E	Milan	Italy
+45.26.N	12.19.E	Venice	Italy
+45.26.N	75.41.W	Ottawa, Ontario	Canada
+45.17.N	66.4.W	Saint John, New Brunswick	Canada
+45.04.N	7.40.E	Turin	Italy
+45.02.N	38.58.E	Krasnodar	Russia
+44.59.N	93.15.W	Minneapolis, Minnesota	United States
+44.57.N	34.06.E	Simferopol, Crimea	Ukraine
+44.50.N	00.35.W	Bordeaux	France
+44.48.N	20.28.E	Belgrade	Serbia
+44.45.N	19.41.E	Šabac	Serbia
+44.39.N	63.34.W	Halifax, Nova Scotia	Canada
+45.29.N	11.20.E	Bologna	Italy
+44.25.N	26.06.E	Bucharest	Romania
+44.22.N	100.20.W	Pierre, South Dakota	United States
+44.20.N	23.49.E	Craiova	Romania
+44.18.N	69.46.W	Augusta, Maine	United States
+44.15.N	72.34.W	Montpelier, Vermont	United States
+43.56.N	12.26.E	San Marino	San Marino
+43.52.N	18.25.E	Sarajevo	Bosnia and Herzegovina
+43.52.N	125.19.E	Changchun, Jilin	People's Republic of China
+43.50.N	66.50.W	Yarmouth, Nova Scotia	Canada
+43.46.N	11.15.E	Florence	Italy
+43.44.N	7.24.E	Monaco	Monaco
+43.42.N	7.16.E	Nice	France
+43.42.N	79.23.W	Toronto, Ontario	Canada
+43.36.N	116.12.W	Boise, Idaho	United States
+43.35.47..N	39.43.36..E	Sochi	Russia
+43.18.N	5.22.E	Marseille	France
+43.17.N	76.54.E	Almaty	Kazakhstan
+43.15.N	2.55.W	Bilbao, Basque Country	Spain
+43.12.N	71.32.W	Concord, New Hampshire	United States
+43.09.N	77.36.W	Rochester, New York	United States
+43.08.N	131.54.E	Vladivostok	Russia
+43.04.N	141.21.E	Sapporo	Japan
+43.03.N	87.57.W	Milwaukee, Wisconsin	United States
+43.00.N	41.01.E	Sukhumi, Abkhazia	Georgia
+42.54.N	78.51.W	Buffalo, New York	United States
+42.52.N	74.37.E	Bishkek	Kyrgyzstan
+42.42.N	23.20.E	Sofia	Bulgaria
+42.40.N	21.10.E	Pristina	Serbia
+42.30.N	1.30.E	Andorra la Vella	Andorra
+42.28.N	19.17.E	Podgorica	Montenegro
+42.28.N	59.36.E	Nukus, Karakalpakstan	Uzbekistan
+42.21.N	71.04.W	Boston, Massachusetts	United States
+42.20.N	83.03.W	Detroit, Michigan	United States
+42.17.N	83.00.W	Windsor, Ontario	Canada
+42.14.N	43.58.E	Tskhinvali, South Ossetia	Georgia
+42.0.N	21.26.E	Skopje	Macedonia
+41.54.N	12.29.E	Rome	Italy
+41.54.N	12.27.E	Vatican City	Vatican City
+41.50.N	87.39.W	Chicago, Illinois	United States
+41.49.N	71.25.W	Providence, Rhode Island	United States
+41.48.N	129.47.0.E	Chongjin	North Korea
+41.48.N	123.25.E	Shenyang, Liaoning	People's Republic of China
+41.45.N	72.41.W	Hartford, Connecticut	United States
+41.43.N	44.47.E	Tbilisi	Georgia
+41.39.N	0.53.W	Zaragoza, Aragon	Spain
+41.38.N	71.58.E	Namangan	Uzbekistan
+41.35.N	93.37.W	Des Moines, Iowa	United States
+41.29.N	81.40.W	Cleveland, Ohio	United States
+41.23.N	2.11.E	Barcelona, Catalonia	Spain
+41.20.N	19.49.E	Tirana	Albania
+41.16.N	69.13.E	Tashkent	Uzbekistan
+41.09.N	8.38.W	Porto	Portugal
+41.08.N	104.48.W	Cheyenne, Wyoming	United States
+41.07.N	85.07.W	Fort Wayne, Indiana	United States
+41.03.N	28.98.E	Istanbul	Turkey
+41.02.N	49.53.E	Baku	Azerbaijan
+40.50.N	14.15.E	Naples	Italy
+40.48.N	96.40.W	Lincoln, Nebraska	United States
+40.45.N	111.53.W	Salt Lake City, Utah	United States
+40.43.N	74.00.W	New York, New York	United States
+40.38.N	22.57.E	Thessaloniki	Greece
+40.27.N	80.00.W	Pittsburgh, Pennsylvania	United States
+40.23.N	3.43.W	Madrid, Madrid	Spain
+40.20.N	29.08.E	Bursa	Turkey
+40.13.N	74.45.W	Trenton, New Jersey	United States
+40.10.N	44.31.E	Yerevan	Armenia
+40.02.N	105.27.W	Boulder, Colorado	United States
+39.59.N	82.59.W	Columbus, Ohio	United States
+39.57.N	75.10.W	Philadelphia, Pennsylvania	United States
+39.54.N	116.23.E	Beijing	People's Republic of China
+39.52.N	32.52.E	Ankara	Turkey
+39.47.N	30.31.E	Eskisehir	Turkey
+39.46.N	86.09.W	Indianapolis, Indiana	United States
+39.45.N	104.59.W	Denver, Colorado	United States
+39.34.N	2.39.E	Palma, Balearic Islands	Spain
+39.31.N	119.49.W	Reno, Nevada	United States
+39.29.N	0.22.W	Valencia, Valencian Community	Spain
+39.17.N	76.37.W	Baltimore, Maryland	United States
+39.14.N	9.7.E	Cagliari, Sardinia	Italy
+39.09.N	75.31.W	Dover, Delaware	United States
+39.08.51.N	127.26.46.E	Wonsan	North Korea
+39.08.N	84.30.W	Cincinnati, Ohio	United States
+39.08.N	117.11.E	Tianjin	People's Republic of China
+39.06.N	94.35.W	Kansas City, Missouri	United States
+39.02.N	125.45.E	Pyongyang	North Korea
+38.54.N	77.02.W	Washington, D.C.	United States
+38.42.N	9.11.W	Lisbon	Portugal
+38.39.N	90.13.W	St. Louis, Missouri	United States
+38.33.N	121.28.W	Sacramento, California	United States
+38.32.N	68.47.E	Dushanbe	Tajikistan
+38.28.N	23.36.E	Halkida	Greece
+38.20.N	81.38.W	Charleston, West Virginia	United States
+38.15.N	85.46.W	Louisville, Kentucky	United States
+38.11.N	15.33.E	Messina	Italy
+38.07.N	13.22.E	Palermo, Sicily	Italy
+38.00.N	23.43.E	Athens	Greece
+37.58.N	58.20.E	Ashgabat	Turkmenistan
+37.58.N	126.33.E	Kaesong	North Korea
+37.52.N	32.29.E	Konya	Turkey
+37.48.N	35.57.E	Adana	Turkey
+37.46.N	122.26.W	San Francisco, California	United States
+37.41.N	97.20.W	Wichita, Kansas	United States
+37.33.N	126.59.E	Seoul	South Korea
+37.30.N	15.05.E	Catania	Italy
+37.23.N	5.59.W	Sevilla, Andalusia	Spain
+37.12.N	93.17.W	Springfield, Missouri	United States
+36.51.N	75.59.W	Virginia Beach, Virginia	United States
+36.48.N	34.38.E	Mersin	Turkey
+36.47.N	3.04.E	Algiers	Algeria
+36.22.N	43.07.E	Mosul	Iraq
+36.18.N	59.37.E	Mashhad	Iran
+36.11.N	115.13.W	Las Vegas, Nevada	United States
+36.08.N	5.21.W	Gibraltar	Gibraltar
+36.08.N	10.17.E	Tunis	Tunisia
+36.07.N	95.56.W	Tulsa, Oklahoma	United States
+36.05.N	120.20.E	Qingdao, Shandong	People's Republic of China
+36.00.N	86.47.W	Nashville, Tennessee	United States
+35.54.N	14.31.E	Valletta	Malta
+35.42.N	51.25.E	Tehran	Iran
+35.41.N	139.46.E	Tokyo	Japan
+35.29.N	97.32.W	Oklahoma City, Oklahoma	United States
+35.26.N	139.38.E	Yokohama	Japan
+35.20.N	25.8.E	Heraklion	Greece
+35.14.N	80.50.W	Charlotte, North Carolina	United States
+35.07.N	89.58.W	Memphis, Tennessee	United States
+35.07.N	136.56.E	Nagoya	Japan
+35.06.N	106.35.W	Albuquerque, New Mexico	United States
+35.31.N	35.47.E	Latakia	Syria
+35.30.N	139.45.E	Kawasaki	Japan
+35.28.N	44.24.E	Kirkuk	Iraq
+35.10.N	33.21.E	Nicosia	Cyprus
+35.06.N	129.02.E	Busan	South Korea
+35.01.N	135.45.E	Kyoto	Japan
+34.45.N	113.38.E	Zhengzhou, Henan	People's Republic of China
+34.44.N	10.46.E	Sfax	Tunisia
+34.44.N	92.19.W	Little Rock, Arkansas	United States
+34.42.N	119.70.W	Santa Barbara, California	United States
+34.42.N	135.09.E	K.be	Japan
+34.42.N	135.30.E	Osaka	Japan
+34.31.N	69.11.E	Kabul	Afghanistan
+34.23.N	132.27.E	Hiroshima	Japan
+34.05.N	74.47.E	Srinagar, Jammu and Kashmir	India
+34.03.N	118.15.W	Los Angeles, California	United States
+34.02.N	6.50.W	Rabat	Morocco
+34.00.N	81.02.W	Columbia, South Carolina	United States
+33.56.N	117.23.W	Riverside, California	United States
+33.53.N	35.31.E	Beirut	Lebanon
+33.45.N	84.23.W	Atlanta, Georgia	United States
+33.43.N	73.4.E	Islamabad	Pakistan
+33.35.N	130.24.E	Fukuoka	Japan
+33.32.N	7.35.W	Casablanca	Morocco
+33.31.N	86.49.W	Birmingham, Alabama	United States
+33.30.N	36.18.E	Damascus	Syria
+33.27.N	112.04.W	Phoenix, Arizona	United States
+33.20.N	44.26.E	Baghdad	Iraq
+32.54.N	13.11.E	Tripoli	Libya
+32.46.N	96.48.W	Dallas, Texas	United States
+32.43.N	117.10.W	San Diego, California	United States
+32.40.N	115.28.W	Mexicali, Baja California	Mexico
+32.38.N	51.29.E	Isfahan	Iran
+32.31.N	117.02.W	Tijuana, Baja California	Mexico
+32.18.N	64.47.W	Hamilton	Bermuda
+32.17.N	90.11.W	Jackson, Mississippi	United States
+32.07.N	20.4.E	Benghazi	Libya
+32.05.N	34.48.E	Tel Aviv	Israel
+32.03.N	118.46.E	Nanjing, Jiangsu	People's Republic of China
+31.57.N	35.56.E	Amman	Jordan
+31.48.N	106.98.W	Ciudad Juárez, Chihuahua	Mexico
+31.47.N	116.36.W	Ensenada, Baja California	Mexico
+31.46.N	35.14.E	Jerusalem	Israel
+31.38.N	74.51.E	Amritsar, Punjab	India
+31.37.N	65.43.E	Kandahar	Afghanistan
+31.33.N	74.20.E	Lahore, Punjab	Pakistan
+31.31.N	34.27.E	Gaza, Gaza Strip	Palestine
+31.12.N	29.55.E	Alexandria	Egypt
+31.10.N	121.28.E	Shanghai	People's Republic of China
+31.08.N	8.0.W	Marrakech	Morocco
+31.06.N	77.10.E	Shimla, Himachal Pradesh	India
+30.42.N	76.43.E	Chandigarh	India
+30.41.N	88.05.W	Mobile, Alabama	United States
+30.39.N	104.04.E	Chengdu, Sichuan	People's Republic of China
+30.34.N	114.16.E	Wuhan, Hubei	People's Republic of China
+30.19.N	81.40.W	Jacksonville, Florida	United States
+30.18.N	97.45.W	Austin, Texas	United States
+30.03.N	31.22.E	Cairo	Egypt
+29.58.N	32.33.E	Suez	Egypt
+29.58.N	90.04.W	New Orleans, Louisiana	United States
+29.55.N	110.57.W	Hermosillo Sonora	Mexico
+29.45.N	95.22.W	Houston, Texas	United States
+29.39.N	91.07.E	Lhasa, Tibet, China	People's Republic of China
+29.33.N	34.57.E	Eilat	Israel
+29.33.N	106.30.E	Chongqing	People's Republic of China
+29.32.N	98.28.W	San Antonio, Texas	United States
+29.22.N	47.58.E	Kuwait City	Kuwait
+28.38.N	77.13.E	New Delhi	India
+28.38.N	106.05.W	Chihuahua Chihuahua	Mexico
+28.28.N	16.15.W	Santa Cruz de Tenerife, Canary Islands	Spain
+28.25.N	81.19.W	Orlando, Florida	United States
+28.9.N	15.25.W	Las Palmas de Gran Canaria, Canary Islands	Spain
+27.58.N	82.27.W	Tampa, Florida	United States
+27.43.N	85.22.E	Kathmandu	Nepal
+27.29.N	94.55.E	Dibrugarh, Assam	India
+27.28.N	89.38.E	Thimphu	Bhutan
+27.10.N	78.1.E	Agra, Uttar Pradesh	India
+27.09.N	13.12.W	El Aaiún, Western Sahara	Morocco
+27.02.N	14.26.E	Sabha	Libya
+26.56.N	75.49.E	Jaipur, Rajasthan	India
+26.44.N	88.26.E	Siliguri, West Bengal	India
+26.40.N	92.45.E	Tezpur, Assam	India
+26.20.N	127.48.E	Okinawa	Japan
+26.13.N	50.35.E	Manama	Bahrain
+26.10.N	91.45.E	Guwahati, Assam	India
+25.47.N	80.13.W	Miami, Florida	United States
+25.40.N	100.18.W	Monterrey, Nuevo León	Mexico
+25.32.N	103.26.W	Torreón, Coahuila	Mexico
+25.19.N	79.38.E	Kulpahar	India
+25.17.N	51.32.E	Doha	Qatar
+25.16.N	55.20.E	Dubai	United Arab Emirates
+25.14.N	107.50.W	Culiacán, Sinaloa	Mexico
+25.03.N	77.20.W	Nassau	Bahamas
+25.02.N	121.38.E	Taipei	Republic of China (Taiwan)
+24.43.N	46.43.E	Riyadh	Saudi Arabia
+24.33.N	81.47.W	Key West, Florida	United States
+24.28.N	54.22.E	Abu Dhabi	United Arab Emirates
+24.08.N	67.01.E	Karachi, Sindh	Pakistan
+23.42.N	90.23.E	Dhaka	Bangladesh
+23.37.N	58.36.E	Muscat	Oman
+23.30.N	91.12.E	Agartala, Tripura	India
+23.20.N	113.30.E	Guangzhou, Guangdong	People's Republic of China
+23.07.N	82.23.W	Havana	Cuba
+23.01.N	72.34.E	Ahmedabad, Gujarat	India
+22.59.N	120.11.E	Tainan City	Republic of China (Taiwan)
+22.53.N	109.55.W	Cabo San Lucas, Baja California Sur	Mexico
+22.49.N	108.22.E	Nanning	People's Republic of China
+22.38.N	120.16.E	Kaohsiung	Republic of China (Taiwan)
+22.34.N	88.21.E	Kolkata (Calcutta), West Bengal	India
+22.33.N	114.06.E	Shenzhen, Guangdong	People's Republic of China
+22.22.N	97.85.W	Tampico, Tamaulipas	Mexico
+22.22.N	91.48.E	Chittagong	Bangladesh
+22.17.N	114.08.E	Hong Kong	Hong Kong, China
+22.16.N	100.98.W	San Luis Potosí, San Luis Potosí	Mexico
+22.10.N	113.33.E	Macau	Macau, China
+21.51.N	102.18.W	Aguascalientes, Aguascalientes	Mexico
+21.50.N	39.16.E	Jeddah	Saudi Arabia
+21.25.N	39.49.E	Mecca	Saudi Arabia
+21.18.N	157.50.W	Honolulu, Hawaii	United States
+21.10.N	86.50.W	Cancún, Quintana Roo	Mexico
+21.07.N	101.41.W	León, Guanajuato	Mexico
+21.05.N	79.03.E	Nagpur, Maharashtra	India
+21.02.N	105.51.E	Hanoi	Vietnam
+20.58.N	89.37.W	Mérida, Yucatán	Mexico
+20.40.N	103.21.W	Guadalajara, Jalisco	Mexico
+20.40.N	105.16.W	Puerto Vallarta, Jalisco	Mexico
+20.36.N	100.23.W	Querétaro, Querétaro	Mexico
+20.01.N	75.48.W	Santiago de Cuba	Cuba
+19.45.N	96.6.E	Naypyidaw	Myanmar
+19.41.N	99.13.W	Mexico City	Mexico
+19.18.N	81.22.W	George Town, Grand Cayman	Cayman Islands (UK)
+19.11.N	96.08.W	Veracruz, Veracruz	Mexico
+19.05.N	98.22.W	Puebla, Puebla	Mexico
+18.58.N	72.49.E	Mumbai (Bombay), Maharashtra	India
+18.52.N	73.84.E	Pune, Maharashtra	India
+18.47.N	98.59.E	Chiang Mai	Thailand
+18.32.N	72.20.W	Port-au-Prince	Haiti
+18.30.N	69.59.W	Santo Domingo	Dominican Republic
+18.29.N	66.08.W	San Juan	Puerto Rico (USA)
+18.6.N	15.57.W	Nouakchott	Mauritania
+17.59.N	76.48.W	Kingston	Jamaica
+17.58.N	102.36.E	Vientiane	Laos
+17.41.N	83.13.E	Visakhapatnam	India
+17.30.N	88.11.W	Belize City	Belize
+17.25.N	102.45.E	Udon Thani	Thailand
+17.22.N	78.29.E	Hyderabad, Andhra Pradesh	India
+17.18.N	62.44.W	Basseterre	Saint Kitts and Nevis
+17.16.N	88.46.W	Belmopan	Belize
+17.07.N	61.51.W	St. John's	Antigua and Barbuda
+17.01.N	54.05.E	Salalah	Oman
+16.50.N	99.55.W	Acapulco, Guerrero	Mexico
+16.46.N	3.00.W	Timbuktu	Mali
+16.48.N	96.09.E	Yangon	Myanmar
+16.26.N	102.50.E	Khon Kaen City	Thailand
+15.34.N	33.36.E	Khartoum	Sudan
+15.30.N	61.39.W	Roseau	Dominica
+15.21.N	44.12.E	San‘a.	Yemen
+15.20.N	38.56.E	Asmara	Eritrea
+15.11.N	145.45.E	Saipan, Northern Mariana Islands	United States
+14.58.N	102.06.E	Nakhon Ratchasima City	Thailand
+14.55.N	23.31.W	Praia	Cape Verde
+14.52.N	92.16.W	Tapachula, Chiapas	Mexico
+14.40.N	17.25.W	Dakar	Senegal
+14.38.N	90.33.W	Guatemala City	Guatemala
+14.38.N	121.2.E	Quezon City	Philippines
+14.36.N	120.59.E	Manila	Philippines
+14.33.N	121.2.E	Makati	Philippines
+14.20.N	100.34.E	Ayutthaya	Thailand
+14.05.N	87.13.W	Tegucigalpa	Honduras
+14.01.N	60.59.W	Castries	Saint Lucia
+13.45.N	100.31.E	Bangkok	Thailand
+13.41.N	89.11.W	San Salvador	El Salvador
+13.31.N	2.6.E	Niamey	Niger
+13.31.N	144.50.E	Dededo, Guam	United States
+13.27.N	16.34.E	Banjul	Gambia
+13.26.N	16.40.E	Serekunda	Gambia
+13.10.N	61.14.W	Kingstown	Saint Vincent and the Grenadines
+13.09.N	80.17.E	Chennai (Madras), Tamil Nadu	India
+13.07.N	59.37.W	Bridgetown	Barbados
+12.58.N	77.35.E	Bangalore, Karnataka	India
+12.56.N	100.53.E	Pattaya City	Thailand
+12.30.N	61.45.W	St. George's	Grenada
+12.39.N	8.0.W	Bamako	Mali
+12.37.N	87.09.W	Chinandega	Nicaragua
+12.21.N	1.32.W	Ouagadougou	Burkina Faso
+12.08.N	86.16.W	Managua	Nicaragua
+12.06.N	15.03.E	N'Djamena	Chad
+12.00.N	8.31.E	Kano	Nigeria
+11.51.N	15.34.W	Bissau	Guinea-Bissau
+11.36.N	43.10.E	Djibouti	Djibouti
+11.33.N	104.55.E	Phnom Penh	Cambodia
+11.11.N	4.17.W	Bobo-Dioulasso	Burkina Faso
+10.65.N	71.64.W	Maracaibo	Venezuela
+10.46.N	106.41.E	Ho Chi Minh City	Vietnam
+10.41.N	122.33.E	Iloilo City	Philippines
+10.40.N	61.31.W	Port of Spain	Trinidad and Tobago
+10.38.N	85.26.W	Liberia	Costa Rica
+10.30.N	66.56.W	Caracas	Venezuela
+10.24.N	67.60.W	Maracay	Venezuela
+10.17.N	61.28.W	San Fernando	Trinidad and Tobago
+10.17.N	123.54.E	Cebu City	Philippines
+10.01.N	84.13.W	Alajuela	Costa Rica
+9.59.N	76.17.E	Kochi	India
+9.59.N	83.02.W	Limon	Costa Rica
+9.58.N	84.50.W	Puntarenas	Costa Rica
+9.56.N	84.05.W	San José	Costa Rica
+9.30.N	13.42.W	Conakry	Guinea
+9.30.N	44.0.E	Hargeisa, Somaliland	Somalia
+9.24.N	0.51.W	Tamale	Ghana
+9.08.N	99.19.E	Surat Thani	Thailand
+9.04.N	7.29.E	Abuja	Nigeria
+9.02.N	38.44.E	Addis Ababa	Ethiopia
+8.58.N	79.32.W	Panama City	Panama
+8.34.N	16.05.E	Moundou	Chad
+8.30.N	13.7.W	Freetown	Sierra Leone
+8.29.N	76.57.E	Trivandrum	India
+8.12.N	63.55.W	Ciudad Bolívar	Venezuela
+7.53.N	72.30.W	Cúcuta	Colombia
+7.53.N	98.24.E	Phuket City	Thailand
+7.45.N	8.49.W	Nzérékoré	Guinea
+7.40.N	171.16.E	Majuro	Marshall Islands
+7.30.N	126.0.E	Davao City	Philippines
+7.22.N	3.53.E	Ibadan	Nigeria
+7.21.N	134.28.E	Koror	Palau
+7.01.N	100.28.E	Hat Yai	Thailand
+6.55.N	158.11.E	Palikir	Federated States of Micronesia
+6.54.N	79.50.E	Colombo	Sri Lanka
+6.54.N	79.53.E	Sri Jayawardenapura-Kotte	Sri Lanka
+6.49.N	5.17.W	Yamoussoukro	Ivory Coast
+6.48.N	58.10.W	Georgetown	Guyana
+6.41.N	1.37.W	Kumasi	Ghana
+6.35.N	3.20.E	Lagos	Nigeria
+6.30.N	2.36.E	Porto-Novo	Benin
+6.22.N	2.25.E	Cotonou	Benin
+6.19.N	5.36.E	Benin City	Nigeria
+6.19.N	10.46.W	Monrovia	Liberia
+6.14.N	75.34.W	Medellín	Colombia
+6.08.N	1.12.E	Lomé	Togo
+6.07.N	100.22.E	Alor Star, Kedah	Malaysia
+5.58.N	116.06.E	Kota Kinabalu, Sabah	Malaysia
+5.52.N	55.10.W	Paramaribo	Suriname
+5.40.N	67.38.W	Puerto Ayacucho	Venezuela
+5.31.N	95.25.E	Banda Aceh	Indonesia
+5.30.N	0.10.W	Accra	Ghana
+5.25.N	100.19.E	George Town, Penang	Malaysia
+5.20.N	4.01.W	Abidjan	Ivory Coast
+4.60.N	101.07.E	Ipoh, Perak	Malaysia
+4.56.N	52.20.W	Cayenne, French Guiana	France
+4.55.N	1.46.W	Sekondi-Takoradi	Ghana
+4.53.N	114.56.E	Bandar Seri Begawan	Brunei
+4.51.N	31.36.E	Juba	South Sudan
+4.45.N	7.0.E	Port Harcourt	Nigeria
+4.37.N	74.05.W	Bogotá	Colombia
+4.23.N	113.58.E	Miri, Sarawak	Malaysia
+4.22.N	18.35.E	Bangui	Central African Republic
+4.10.N	73.30.E	Malé	Maldives
+4.03.N	9.41.E	Douala	Cameroon
+3.52.N	11.31.E	Yaoundé	Cameroon
+3.45.N	8.46.E	Malabo	Equatorial Guinea
+3.35.N	98.40.E	Medan	Indonesia
+3.25.N	76.32.W	Santiago de Cali	Colombia
+3.08.N	101.42.E	Kuala Lumpur, Federal Territory	Malaysia
+2.49.N	60.40.W	Boa Vista, Roraima	Brazil
+2.11.N	102.23.E	Malacca Town, Malacca	Malaysia
+2.04.N	45.22.E	Mogadishu	Somalia
+1.33.N	110.25.E	Kuching, Sarawak	Malaysia
+1.29.N	103.44.E	Johor Bahru, Johor	Malaysia
+1.19.N	172.58.E	South Tarawa	Kiribati
+1.17.N	103.51.E	Singapore	Singapore
+0.32.N	101.27.E	Pekanbaru	Indonesia
+0.23.N	9.27.E	Libreville	Gabon
+0.20.N	6.41.E	São Tomé	São Tomé and Príncipe
+0.19.N	32.35.E	Kampala	Uganda
+0.04.N	32.27.E	Entebbe	Uganda
+0.02.N	51.03.W	Macapá, Amapá	Brazil
+0.00.N/S	109.20.E	Pontianak	Indonesia
+0.15.S	78.35.W	Quito	Ecuador
+0.21.S	42.33.E	Kismayo	Somalia
+0.33.S	166.55.E	Yaren District	Nauru
+0.57.S	100.21.E	Padang	Indonesia
+1.15.S	116.50.E	Balikpapan	Indonesia
+1.17.S	36.48.E	Nairobi	Kenya
+1.28.S	48.29.W	Belém, Pará	Brazil
+1.57.S	30.04.E	Kigali	Rwanda
+2.11.S	79.53.W	Guayaquil	Ecuador
+2.31.S	44.18.W	São Luís, Maranhão	Brazil
+2.59.S	104.45.E	Palembang	Indonesia
+3.06.S	60.01.W	Manaus, Amazonas	Brazil
+3.23.S	29.22.E	Bujumbura	Burundi
+3.42.S	128.10.E	Ambon City	Indonesia
+3.46.S	38.34.W	Fortaleza, Ceará	Brazil
+4.03.S	39.40.E	Mombasa	Kenya
+4.16.S	15.17.E	Brazzaville	Republic of the Congo
+4.19.S	15.19.E	Kinshasa	Democratic Republic of the Congo
+4.37.S	55.27.E	Victoria	Seychelles
+5.06.S	42.48.W	Teresina, Piauí	Brazil
+5.08.S	119.25.E	Makassar	Indonesia
+5.32.S	47.29.W	Imperatriz, Maranhão	Brazil
+5.47.S	35.12.W	Natal, Rio Grande do Norte	Brazil
+6.10.S	39.12.E	Zanzibar City	Tanzania
+6.10.S	35.44.E	Dodoma	Tanzania
+6.11.S	106.50.E	Jakarta	Indonesia
+6.36.S	106.48.E	Bogor	Indonesia
+6.48.S	39.17.E	Dar es Salaam	Tanzania
+6.57.S	107.34.E	Bandung	Indonesia
+6.58.S	110.25.E	Semarang	Indonesia
+7.07.S	34.51.W	João Pessoa, Paraíba	Brazil
+7.14.S	112.44.E	Surabaya	Indonesia
+7.58.S	112.37.E	Malang	Indonesia
+8.01.S	79.00.W	Trujillo	Peru
+8.04.S	34.52.W	Recife, Pernambuco	Brazil
+8.31.S	179.13.E	Funafuti	Tuvalu
+8.34.S	125.34.E	Dili	Timor-Leste
+8.39.S	115.13.E	Denpasar, Bali	Indonesia
+8.46.S	63.54.W	Porto Velho, Rondônia	Brazil
+8.50.S	13.14.E	Luanda	Angola
+9.28.S	159.49.E	Honiara	Solomon Islands
+9.30.S	147.12.E	Port Moresby	Papua New Guinea
+9.39.S	35.44.W	Maceió, Alagoas	Brazil
+9.59.S	67.48.W	Rio Branco, Acre	Brazil
+10.12.S	48.21.W	Palmas, Tocantins	Brazil
+10.54.S	37.02.W	Aracaju, Sergipe	Brazil
+11.45.S	43.12.E	Moroni	Comoros
+11.52.S	55.30.W	Sinop, Mato Grosso	Brazil
+12.03.S	77.02.W	Lima	Peru
+12.27.S	130.50.E	Darwin, Northern Territory	Australia
+12.58.S	28.38.E	Ndola	Zambia
+12.46.S	15.44.E	Huambo	Angola
+12.47.S	45.13.E	Mamoudzou, Mayotte	France
+12.58.S	38.30.W	Salvador, Bahia	Brazil
+13.09.S	74.13.W	Ayacucho	Peru
+13.50.S	171.50.W	Apia	Samoa
+13.59.S	33.47.E	Lilongwe	Malawi
+14.16.S	170.42.W	Pago Pago, American Samoa	United States
+14.47.S	39.02.W	Ilhéus, Bahia	Brazil
+15.25.S	28.17.E	Lusaka	Zambia
+15.36.S	56.05.W	Cuiabá, Mato Grosso	Brazil
+15.40.S	34.58.E	Blantyre	Malawi
+15.47.S	47.54.W	Brasília, Distrito Federal	Brazil
+16.24.S	71.32.W	Arequipa	Peru
+16.30.S	68.08.W	La Paz	Bolivia
+16.41.S	49.15.W	Goiânia, Goiás	Brazil
+16.57.S	145.45.E	Cairns, Queensland	Australia
+17.32.S	149.34.W	Papeete, French Polynesia	France
+17.45.S	63.14.W	Santa Cruz	Bolivia
+17.45.S	168.18.E	Port Vila	Vanuatu
+17.51.S	25.52.E	Livingstone	Zambia
+17.52.S	31.02.E	Harare	Zimbabwe
+18.10.S	178.27.E	Suva	Fiji
+18.28.S	70.18.W	Arica	Chile
+18.55.S	47.31.E	Antananarivo	Madagascar
+19.03.S	65.16.W	Sucre	Bolivia
+19.15.S	146.46.E	Townsville, Queensland	Australia
+19.55.S	43.56.W	Belo Horizonte, Minas Gerais	Brazil
+20.10.S	28.34.E	Bulawayo	Zimbabwe
+20.10.S	57.31.E	Port Louis	Mauritius
+20.13.S	70.10.W	Iquique	Chile
+20.18.S	118.36.E	Port Hedland, Western Australia	Australia
+20.19.S	40.20.W	Vitória, Espírito Santo	Brazil
+20.26.S	54.38.W	Campo Grande, Mato Grosso do Sul	Brazil
+20.52.S	55.28.E	Saint-Denis, Réunion	France
+21.10.S	27.30.E	Francistown	Botswana
+21.08.S	175.12.W	Nuku'Alofa	Tonga
+22.17.S	166.27.E	Nouméa, New Caledonia	France
+22.27.S	68.56.W	Calama	Chile
+22.34.S	17.5.E	Windhoek	Namibia
+22.54.S	47.03.W	Campinas, São Paulo	Brazil
+22.54.S	43.14.W	Rio de Janeiro, Rio de Janeiro	Brazil
+23.22.S	150.31.E	Rockhampton, Queensland	Australia
+23.33.S	46.38.W	São Paulo, São Paulo	Brazil
+23.38.S	70.23.W	Antofagasta	Chile
+23.54.S	29.27.E	Polokwane, Limpopo	South Africa
+24.39.S	25.54.E	Gaborone	Botswana
+24.47.S	65.25.W	Salta, Salta	Argentina
+25.16.S	57.40.W	Asunción	Paraguay
+25.25.S	49.17.W	Curitiba, Paraná	Brazil
+25.28.S	30.59.E	Nelspruit, Mpumalanga	South Africa
+25.44.S	28.11.E	Pretoria, Gauteng	South Africa
+25.51.S	25.38.E	Mafikeng, North West	South Africa
+25.58.S	32.35.E	Maputo	Mozambique
+26.08.S	27.54.E	Johannesburg, Gauteng	South Africa
+26.19.S	31.08.E	Mbabane	Swaziland
+26.50.S	65.13.W	San Miguel de Tucumán, Tucumán	Argentina
+27.22.S	70.20.W	Copiapó	Chile
+27.25.S	48.32.W	Florianópolis, Santa Catarina	Brazil
+27.28.S	153.02.E	Brisbane, Queensland	Australia
+28.00.S	153.25.E	Gold Coast, Queensland	Australia
+28.45.S	24.46.E	Kimberley, Northern Cape	South Africa
+29.18.S	27.28.E	Maseru	Lesotho
+29.37.S	30.23.E	Pietermaritzburg, KwaZulu-Natal	South Africa
+29.53.S	31.03.E	Durban, KwaZulu-Natal	South Africa
+29.06.S	26.13.E	Bloemfontein, Free State	South Africa
+29.54.S	71.15.W	La Serena	Chile
+30.01.S	51.13.W	Porto Alegre, Rio Grande do Sul	Brazil
+31.24.S	64.11.W	Córdoba, Córdoba	Argentina
+31.46.S	52.21.W	Pelotas, Rio Grande do Sul	Brazil
+31.58.S	115.49.E	Perth, Western Australia	Australia
+32.53.S	27.23.E	Bhisho, Eastern Cape	South Africa
+32.53.S	68.50.W	Mendoza, Mendoza	Argentina
+32.55.S	151.47.E	Newcastle, New South Wales	Australia
+32.57.S	60.40.W	Rosario, Santa Fe	Argentina
+33.03.S	71.37.W	Valparaíso	Chile
+33.27.S	70.39.W	Santiago	Chile
+33.41.S	53.26.W	Chuí, Rio Grande do Sul	Brazil
+33.52.S	151.13.E	Sydney, New South Wales	Australia
+33.55.S	18.25.E	Cape Town, Western Cape	South Africa
+33.57.S	25.38.E	Port Elizabeth, Eastern Cape	South Africa
+34.40.S	58.24.W	Buenos Aires	Argentina
+34.53.S	56.10.W	Montevideo	Uruguay
+34.55.S	138.36.E	Adelaide, South Australia	Australia
+35.17.S	149.08.E	Canberra, Australian Capital Territory	Australia
+36.50.S	73.03.W	Concepción	Chile
+36.51.S	174.47.E	Auckland	New Zealand
+37.47.S	175.17.E	Hamilton	New Zealand
+37.49.S	144.58.E	Melbourne, Victoria	Australia
+38.43.S	62.16.W	Bahía Blanca, Buenos Aires Province	Argentina
+38.45.S	72.40.W	Temuco	Chile
+39.38.S	176.50.E	Hastings	New Zealand
+39.40.S	73.14.W	Valdivia	Chile
+41.09.S	71.18.W	San Carlos de Bariloche, Río Negro	Argentina
+41.17.S	174.47.E	Wellington	New Zealand
+41.17.S	173.17.E	Nelson	New Zealand
+41.28.S	72.56.W	Puerto Montt	Chile
+42.53.S	147.18.E	Hobart, Tasmania	Australia
+43.15.S	65.18.W	Trelew, Chubut	Argentina
+43.32.S	172.37.E	Christchurch	New Zealand
+45.24.S	72.41.W	Puerto Aisén	Chile
+45.34.S	72.04.W	Coihaique	Chile
+45.52.S	67.29.W	Comodoro Rivadavia, Chubut	Argentina
+45.52.S	170.30.E	Dunedin	New Zealand
+46.25.S	168.19.E	Invercargill	New Zealand
+51.38.S	69.13.W	Río Gallegos	Argentina
+51.42.S	57.51.W	Stanley	Falkland Islands ( United Kingdom)
+53.10.S	70.56.W	Punta Arenas	Chile
+54.17.S	36.31.W	Grytviken	South Georgia and the South Sandwich Islands ( United Kingdom)
+54.48.S	68.18.W	Ushuaia, Tierra del Fuego	Argentina
+54.56.S	67.37.W	Puerto Williams	Chile
+55.01.S	67.06.W	Puerto Toro	Chile
